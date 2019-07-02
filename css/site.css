@@ -6,8 +6,8 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Segoe UI";
-            src: url('../fonts/segoeuil.ttf');
+            font-family: "Calibri";
+            src: url('../fonts/calibril.ttf');
         }
         .main-container {
             height: 100%;
